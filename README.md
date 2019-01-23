@@ -2,7 +2,7 @@
 A Ros2 package to control mara robotic arm remotely using an Arduino based ultrasonic sensor
 
 ## Installation 
-Firs follow the step described in
+Firs follow the steps described in
 [MARA-Repo](https://github.com/AcutronicRobotics/MARA).
  
  clone this repo 
