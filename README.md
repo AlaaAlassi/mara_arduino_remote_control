@@ -23,3 +23,9 @@ source ~/ros2_mara_ws/install/setup.bash
 cd ~/ros2_mara_ws && colcon build --merge-install  
 ```
 
+then run 
+
+```
+ros2 run mara_arduino_remote_control mara_arduino_remote_control
+```
+
